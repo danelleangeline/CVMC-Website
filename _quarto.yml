@@ -5,6 +5,7 @@ project:
 website:
   title: "testsite"
   navbar:
+    background: "#efefef"
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +13,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Yeti
+    mainfont: sorts mill gordy
+    fontsize: 1.5rem
+    fontcolor: "#1c2120"
+    linkcolor: "#989430"
+    monofont: courier new
     css: styles.css
     toc: true
 

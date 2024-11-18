@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "testsite",
+    "title": "Desert Climate Resilience Initiative",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The Center for Conservation Biology’s"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "Desert Climate Resilience Initiative",
+    "section": "Project Overview",
+    "text": "Project Overview\nThe Desert Climate Resilience Initiative (DCRI) for Coachella Valley is a project spearheaded by CCB that aims to build the state of knowledge and capacity for coordinating climate change adaptation.\nDeserts are rich in biodiversity and have important economic, recreational, and cultural benefits. The Coachella Valley’s unique desert ecosystems, however, are changing in ways that require a need for careful planning for climate resilience. Our program seeks to build scientific expertise and community engagement around the relationship between several key themes: native plant communities; climate change and carbon stores in the desert; and building equity within the Coachella Valley."
   }
 ]

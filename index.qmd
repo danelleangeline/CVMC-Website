@@ -1,11 +1,35 @@
 ---
-title: "testsite"
+title: "Desert Climate Resilience Initiative"
+subtitle: Building a more resilient Coachella Valley
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:danelleb@ucr.edu
+    - text: Instagram
+      icon: instagram
+      href: https://www.instagram.com/ccbucr/#
+    - text: Vegetation Pamphlet
+      icon: file-text
+      href: vegguide.pdf
+  id: projectoverview
+    
 ---
+The Center for Conservation Biology's
 
-This is a Quarto website.
+:::{#projectoverview}
+## Project Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Desert Climate Resilience Initiative (DCRI) for Coachella Valley is a project spearheaded by CCB that aims to build the state of knowledge and capacity for coordinating climate change adaptation.
 
-```{r}
-1 + 1
-```
+Deserts are rich in biodiversity and have important economic, recreational, and cultural benefits. The Coachella Valley’s unique desert ecosystems, however, are changing in ways that require a need for careful planning for climate resilience. Our program seeks to build scientific expertise and community engagement around the relationship between several key themes: native plant communities; climate change and carbon stores in the desert; and building equity within the Coachella Valley.
+:::
+
+:::{#quote}
+“The Desert Climate Resilience Initiative will be located here within the community, and both the science and the information we gather are meant to build a community that is resilient to climate change.”
+
+– Dr. Lynn Sweet, Principal Investigator
+:::
